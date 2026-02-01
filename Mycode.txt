@@ -1,7 +1,0 @@
-public int Add(int a, int b)
-{
-    int sum = a + b;
-    Console.Write("a equals to: " a);
-    Console.WriteLine("Sum: " + sum);
-    return sum;
-}
