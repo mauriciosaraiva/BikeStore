@@ -3,8 +3,8 @@ public int Add(int a, int b)
     int sum = a + b;
     // Testing phase
     Console.Write("Testing Phase");
-    Console.Write("a equals to: " a);
-    Console.Write("b equals to: " b);
+    //Console.Write("a equals to: " a);
+    //Console.Write("b equals to: " b);
     Console.WriteLine("Sum: " + sum);
     return sum;
 }
