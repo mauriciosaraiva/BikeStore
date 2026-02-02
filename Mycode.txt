@@ -4,4 +4,5 @@ public int Add(int a, int b)
     // Write the result
     Console.WriteLine("Sum: " + sum);
     return sum;
+    // Write a second new line
 }
