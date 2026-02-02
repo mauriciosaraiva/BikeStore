@@ -3,5 +3,6 @@ public int Add(int a, int b)
     int sum = a + b;
     // Write the result
     Console.WriteLine("Sum: " + sum);
+    // Write a new line
     return sum;
 }
