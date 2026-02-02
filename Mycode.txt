@@ -1,7 +1,6 @@
 public int Add(int a, int b)
 {
     int sum = a + b;
-    meu novo teste
     Console.WriteLine("Sum: " + sum);
     return sum;
 }
