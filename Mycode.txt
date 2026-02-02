@@ -1,13 +1,19 @@
-public int Add(int a, int b)
+public int Add(int c, int d)
 {
-    int sum = a + b;
+    int sum = c + d;
     Console.WriteLine("Sum: " + sum);
     return sum;
 }
-
 public int Sub(int a, int b)
 {
     int sub = a - b;
     Console.WriteLine("Sub: " + sub);
     return sub;
+}
+
+public int div(int a, int b)
+{
+    int div = a / b;
+    Console.WriteLine("Div: " + div);
+    return div;
 }
