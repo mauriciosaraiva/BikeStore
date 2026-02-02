@@ -5,6 +5,13 @@ public int Add(int c, int d)
     return sum;
 }
 
+public int Plus(int a, int b)
+{
+    int plus = a * b;
+    Console.WriteLine("Plus: " + plus);
+    return plus;
+}
+
 public int div(int a, int b)
 {
     int div = a / b;
