@@ -12,7 +12,7 @@ public int Plus(int a, int b)
     return plus;
 }
 
-public int div(int a, int b)
+public int Div(int a, int b)
 {
     int div = a / b;
     Console.WriteLine("Div: " + div);
