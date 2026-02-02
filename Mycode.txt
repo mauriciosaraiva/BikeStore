@@ -5,3 +5,9 @@ public int Add(int a, int b)
     return sum;
 }
 
+public int Sub(int a, int b)
+{
+    int sub = a - b;
+    Console.WriteLine("Sub: " + sub);
+    return sub;
+}
